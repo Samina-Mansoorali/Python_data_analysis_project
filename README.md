@@ -10,6 +10,8 @@ Check out the project here [Youtube_channel_data_analysis](/Youtube_channel_data
 
 I scraped data's from dr pal's youtube channel to do the thorough analysis [youtube_channel_analysis_of_dr_pal](youtube_channel_analysis_of_dr_pal.csv)
 
+
+
 I aimed to answer the following questions about Dr. Pal’s competitors:
 
 1. Who leads in subscriber count among Dr. Pal's top five competitors?
