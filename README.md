@@ -39,7 +39,7 @@ Each query for this project aimed at investigating specific aspects of youtube c
 
 1. Who leads in subscriber count among Dr. Pal's top competitors?
 
-![Top_5_subscribers_count](assets\Top_5_subscribers_count.png)
+![Subscribers count](https://github.com/user-attachments/assets/e4b66c7c-6e36-493d-9eb3-3af4a9d4d139)
 
 *Bar graph visualizing the subscribers count of top 5 influencers*
 
