@@ -39,7 +39,7 @@ Each query for this project aimed at investigating specific aspects of youtube c
 
 1. Who leads in subscriber count among Dr. Pal's top competitors?
 
-![Top_5_subscribers_count](assets\Top 5 subscribers count.png)
+![Top_5_subscribers_count](assets\Top_5_subscribers_count.png)
 
 *Bar graph visualizing the subscribers count of top 5 influencers*
 
@@ -54,7 +54,7 @@ Each query for this project aimed at investigating specific aspects of youtube c
 2. Who leads in view count among Dr. Pal's top competitors?
 
 
-![Top_channel_in_view_count](assets\Top_views_among_competitors.png)
+![View counts](https://github.com/user-attachments/assets/933c0255-b4c9-488a-9c9d-126233cfc260)
 
 *Bar graph visualizing the view counts of top 5 influencers*
 
@@ -68,7 +68,7 @@ Each query for this project aimed at investigating specific aspects of youtube c
 
 3. What are the top 10 performing videos on Dr. Pal's channel?
 
-![Top_performing_videos_of_drpal](assets\top_10_best_performing_videos_of_drpal.png)
+![Top 10 best performing videos of drpal](https://github.com/user-attachments/assets/de692a3d-098a-4736-bccd-11ae6335b34c)
 
 *Bar graph visualizing the top 10 performing videos on Dr. Pal's channel*
 
@@ -83,7 +83,7 @@ Analysis: Videos that perform well usually cater to trending topics or address c
 
 4. How frequently does Dr. Pal post videos each month?
 
-![Videos_per_month](assets\videos_per_month.png)
+![Videos drpal posted per month](https://github.com/user-attachments/assets/00fd8aa9-8b46-4951-a7b1-06176ee6c69e)
 
 *Bar graph visualizing the counts of videos posted each month in dr pal's youtube channel*
 
@@ -95,7 +95,7 @@ Analysis: Videos that perform well usually cater to trending topics or address c
 
 5. Which month generated the highest number of views for Dr. Pal?
 
-![Highest_view_month](assets\drpal_video_views.png)
+![drpals video views](https://github.com/user-attachments/assets/d4208e9f-2125-4289-a24a-cf0e57e8b599)
 
 *Bar graph visualizing the views generated each month in dr pal's youtube channel*
 
